@@ -141,4 +141,4 @@ function display_ruby_version {
  export RPS1=$RUBY_VERSION
 }
 
-use_leopard_ruby
+use_ruby_187
